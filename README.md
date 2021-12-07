@@ -1,28 +1,9 @@
-# InterviewContracts
-Smart Contracts and Programs that may have some vulnerabilities.
 
-# Solana CTF Based on Rust
-
-./HalbornCTF_Rust_Solana/
-
-# Substrate CTF Based on Rust
-
-./HalbornCTF_Rust_Substrate/
-
-# Solidity CTF for EVM
-
-./HalbornCTF_Solidity/
-
-# Tendermint CTF Based on Golang
-
-Coming Soon...
-
-# Terra CTF Based on COSMWASM
-
-Coming Soon...
-
+## Instructions
 
 ** Halborn Offensive Security Engineers that are applying for a full time position, please audit these contracts and provide us with a Security audit report.**
+
+There are 5 different Contracts/Programs based on different Protocols and Blockchains. Please audit/hack and create a Report on one of the following below to submit for your position with Halborn as an Offensive Security Engineer. 
 
 Please include:
 
@@ -32,4 +13,26 @@ Findings Risk Description Code Section Recommendation on Improvement
 
 Halborn requests you to audit these smart contracts. Not only look at the code risks but also the economic aspects.
 
+# CTF List
+
+
+## Solana CTF Based on Rust
+
+./HalbornCTF_Rust_Solana/
+
+## Substrate CTF Based on Rust
+
+./HalbornCTF_Rust_Substrate
+
+## Solidity CTF for EVM
+
+./HalbornCTF_Solidity_Ethereum
+
+## Tendermint CTF Based on Golang
+
+Coming Soon...
+
+## Terra CTF Based on COSMWASM
+
+Coming Soon...
 
